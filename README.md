@@ -1,2 +1,3 @@
 Hello, QA!
-Hello, Git!
+Hello, Git! 
+Hello, Nastia!
